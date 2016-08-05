@@ -19,9 +19,9 @@
       - NZB file support!
       - Easy to use and familiar looking user interface!
     </description>
-    <dependencies>
+    <!--<dependencies>
       <dependency id="chocolatey-uninstall.extension" />
-    </dependencies>
+    </dependencies>-->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
