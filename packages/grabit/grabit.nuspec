@@ -8,7 +8,7 @@
     <title>GrabIt (Install)</title>
     <authors>Ilan Shemes</authors>
     <projectUrl>http://www.shemes.com/index.php?p=home</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/grabit.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/leonverschuren/chocolatey-packages/3c5c5b7dbb402cafa1f4d3e07dfbabd37a9c4e65/icons/grabit.png</iconUrl>
     <copyright>2014 Ilan Shemes</copyright> 
     <tags>grabit usenet downloader</tags>
     <summary>GrabIt is one of the easiest Usenet content downloaders in the world. With GrabIt you can search and download any content on USENET news servers, without downloading gigabytes of headers.</summary>
