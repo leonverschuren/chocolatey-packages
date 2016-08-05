@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>grabit</id>
+    <version>1.7.3-beta</version>
+    <packageSourceUrl>https://github.com/leonverschuren/chocolatey-packages</packageSourceUrl>
+    <owners>leonverschuren</owners>
+    <title>GrabIt (Install)</title>
+    <authors>Ilan Shemes</authors>
+    <projectUrl>http://www.shemes.com/index.php?p=home</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/grabit.png</iconUrl>-->
+    <copyright>2014 Ilan Shemes</copyright> 
+    <tags>grabit usenet downloader</tags>
+    <summary>GrabIt is one of the easiest Usenet content downloaders in the world. With GrabIt you can search and download any content on USENET news servers, without downloading gigabytes of headers.</summary>
+    <description>
+      - Browse and Search newsgroups without downloading headers!
+      - Automatically repair and extract downloaded binaries!
+      - SSL support to protect your download traffic!
+      - NZB file support!
+      - Easy to use and familiar looking user interface!
+    </description>
+    <dependencies>
+      <dependency id="chocolatey-uninstall.extension" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
